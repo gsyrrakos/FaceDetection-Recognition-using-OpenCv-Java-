@@ -1,0 +1,1 @@
+-Djava.library.path="C:\Users\giorgos\Music\opencv\build\java\x64"
